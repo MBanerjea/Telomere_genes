@@ -1,5 +1,5 @@
 # Telomere_genes
-Data wrangling to obtain telomere targets for Thesis 2025:
+Data wrangling to obtain telomere targets for Ph.D. Thesis 2025:
 
 CBC1 RRP6 KO table was obtained from Kuai et al., 2005.
 Kupiec list was obtained from Peretz et al., 2022.
